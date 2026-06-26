@@ -125,7 +125,7 @@ Her gün saat **18:00**'de çalıştırmak için:
 
 ```
 .
-├── faturalar/
+├── invoices/
 ├── company_mail.xlsx
 ├── sender.php
 ├── token.json
@@ -137,7 +137,7 @@ Her gün saat **18:00**'de çalıştırmak için:
 
 ## 📁 Dosyalar
 
-### faturalar/
+### invoices/
 
 İndirilen PDF faturalar burada saklanır.
 
@@ -260,7 +260,7 @@ php sender.php
 
 ```
 .
-├── faturalar/
+├── invoices/
 ├── company_mail.xlsx
 ├── sender.php
 ├── token.json
